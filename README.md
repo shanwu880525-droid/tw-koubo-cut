@@ -4,7 +4,7 @@
 
 ## 你需要什麼
 1. Claude 付費方案（Pro 以上，依 Anthropic 支援文章；方案內容請以官網為準）
-2. 在 Settings → Capabilities 打開 **Code execution and file creation**
+2. 在 Settings（設定） → Capabilities（功能） 打開 **Code execution and file creation**（程式碼執行與檔案建立）
 3. 不需要 MCP，不需要終端機，不需要安裝任何軟體
 
 ## 安裝（一次就好）
